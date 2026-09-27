@@ -41,11 +41,11 @@ def keep_alive():
 
 # --- Configuration ---
 TOKEN = "8969261854:AAE-jzDwiq00GZK66mOsWOeZVQrYbCfdX60"
-OWNER_ID = 8889726455
+OWNER_ID = 8689170506
 ADMIN_ID = 8889726455
-YOUR_USERNAME = "@ModderSanto"
-UPDATE_CHANNEL = "https://t.me/ModderSanto_Official"
-UPLOAD_LOG_CHANNEL = "@all0notificatio66n" # ফাইল আপলোড নোটিফিকেশন চ্যানেল
+YOUR_USERNAME = "@HASAN_BOT_DEV"
+UPDATE_CHANNEL = "https://t.me/hbbothostupdate"
+UPLOAD_LOG_CHANNEL = "@HBLogData" # ফাইল আপলোড নোটিফিকেশন চ্যানেল
 
 MAX_FILE_SIZE_MB = 20 # [CRASH PROTECTION] Maximum file size allowed to prevent memory/disk exhaustion
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
