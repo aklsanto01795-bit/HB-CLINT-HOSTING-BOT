@@ -24,7 +24,7 @@ app = Flask("")
 
 @app.route("/")
 def home():
-    return "I'm HB File Host - Running Successfully"
+    return "I'm CHS File Host - Running Successfully"
 
 def run_flask():
     try:
@@ -40,12 +40,12 @@ def keep_alive():
     print("Flask Keep-Alive server started.")
 
 # --- Configuration ---
-TOKEN = "8969261854:AAETTibbyAwSygNIkmlGt3FUXUni66-6dCE"
-OWNER_ID = 8689170506
+TOKEN = "8969261854:AAE-jzDwiq00GZK66mOsWOeZVQrYbCfdX60"
+OWNER_ID = 8889726455
 ADMIN_ID = 8889726455
-YOUR_USERNAME = "@HASAN_BOT_DEV"
-UPDATE_CHANNEL = https://t.me/hbbothostupdate"
-UPLOAD_LOG_CHANNEL = "@HBLogData" # ফাইল আপলোড নোটিফিকেশন চ্যানেল
+YOUR_USERNAME = "@ModderSanto"
+UPDATE_CHANNEL = "https://t.me/ModderSanto_Official"
+UPLOAD_LOG_CHANNEL = "@all0notificatio66n" # ফাইল আপলোড নোটিফিকেশন চ্যানেল
 
 MAX_FILE_SIZE_MB = 20 # [CRASH PROTECTION] Maximum file size allowed to prevent memory/disk exhaustion
 MAX_FILE_SIZE_BYTES = MAX_FILE_SIZE_MB * 1024 * 1024
